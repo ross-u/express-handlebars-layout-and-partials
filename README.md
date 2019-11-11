@@ -114,8 +114,7 @@ npm i --save-dev nodemon
 
 
 
-### Instantiate the server
-### & Setup Handlebars
+### Instantiate the server & Setup Handlebars
 
 ##### `app.js`
 
