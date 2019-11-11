@@ -1,4 +1,4 @@
-# Express - Handlebars Layout & Partials
+# ExpressJS - Handlebars Layout & Partials
 
 
 <br>
@@ -26,7 +26,7 @@
 - `{{{ body }}}` is used inside of the layout file to mark the place where view files will be loaded, with the layout surrounding them.  
 
 
-
+<br>
 
 
 ### Partials
